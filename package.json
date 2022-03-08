@@ -1,0 +1,29 @@
+{
+  "name": "javascript-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvhtrong/javascript-learning.git"
+  },
+  "keywords": [
+    "javascript",
+    "learning"
+  ],
+  "author": "Trong Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvhtrong/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/lvhtrong/javascript-learning#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
